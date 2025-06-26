@@ -1,1 +1,17 @@
+title: ella agu
+description: Full-stack web and mobile developer
 theme: jekyll-theme-merlot
+
+author: Ella Ngozika Agu
+email: ella.appdev@gmail.com
+url: "https://ellalearns.github.io"
+github_username: ellalearns
+
+social links:
+  - name: LinkedIn
+  - url: "https://linkedin.com/in/ella-agu-dev/"
+
+contact:
+  email: "ella.appdev@gmail.com"
+  phone_number: "+2349019230321"
+  
