@@ -1,4 +1,4 @@
-# 👨‍💻 Full-stack Web and Mobile Developer
+# 👨‍💻 Web and Mobile Developer
 
 Hi! I’m an experienced **Full-stack Mobile Developer** who has both worked in teams and led teams to building fast, scalable, and user-friendly crossplatform mobile applications in React Native.
 
