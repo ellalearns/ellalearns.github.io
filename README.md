@@ -24,8 +24,8 @@ I'm focused on delivering practical, maintainable software solutions that solve 
 
 ## 💼 Projects
 
-### 1. **Toota - Logistics Mobile App - Team Lead**
-Cross-platform ReactNative app that connects users with licensed truck drivers for waybilling heavy goods. 
+### 1. **Toota - Logistics Mobile App**
+Cross-platform ReactNative app that connects users with licensed truck drivers for waybills for heavy goods. 
 **Tech:** ReactNative  
 👉 In Progress
 
